@@ -1,4 +1,4 @@
-# Workflow compiling Swampcoin coin on raspberry pi 3 (stretch)
+# Workflow compiling Swampcoin on raspberry pi 3 (stretch)
 
 Distributor ID:	Raspbian
 Description:	Raspbian GNU/Linux 9.11 (stretch)
